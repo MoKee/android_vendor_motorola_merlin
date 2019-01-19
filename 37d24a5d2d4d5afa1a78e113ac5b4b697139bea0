@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1547937726 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_motorola_merlin\nnonce 1547937726-4609F255B1A6FE640620E21A6B45380FBDCB3FCF\n\n0000000000000000000000000000000000000000 37d24a5d2d4d5afa1a78e113ac5b4b697139bea0 refs/for/mkn-mr1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcQ6e+AAoJEPIi9OYuzSUxtqwH/j20F391me25aREP4g7Orw0y\n9LcqRh7uFjFl2d9v4CfvPLeIZNhLdw9/aKzDmj8d2kwlcjpiC13nGZ7s82eAfC2b\nRqayMdmZpwnqLtQioo7yn6Zb+dQAKjDdXU+1QaReIN6hqOVCG7fkNZ88WQ0+a+g7\nN11OZx+sA/AcjpZREPKx78+/MisNezIeoEkBDlEAdseyssssKNG2PGpRz0iOIDX8\nLBELuYr7V/tT/ppHNlWq05zvWwls21JlwkXSzs/ZKDK/ghqHQ5Sf4byjvrjzE1lB\n0KCkM+t2yPLELUD/DBbXXshJ8AlHRlWTLIMRWbHYgc7lOKaoze2LEY6dC+tHcyY\u003d\n\u003dNziC\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
